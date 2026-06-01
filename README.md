@@ -1,4 +1,5 @@
 **Overview**
+
 This repository contains a deep learning framework for reconstructing hyperspectral images (HSI) from RGB images using the Enhanced Deep Super-Resolution (EDSR) network. The reconstructed spectral information is intended for subsequent allergen source detection in allergen-free food products. The workflow combines image preprocessing, region-of-interest extraction, spectral normalization, deep learning-based spectral reconstruction, and performance evaluation to generate hyperspectral information from conventional RGB images.
 
 **Objectives**
