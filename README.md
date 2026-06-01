@@ -33,7 +33,5 @@ The spectral reconstruction framework is based on the Enhanced Deep Super-Resolu
 **Evaluation Metrics**
 The reconstruction performance is assessed using: Mean Relative Absolute Error (MRAE), Root Mean Square Error (RMSE), Visual comparison (Peak Signal-to-noise ratio ) of reconstructed and reference spectra
 
-**Software Requirements**
-Python, PyTorch, NumPy, OpenCV, Spectral Python (SPy), Matplotlib, Scikit-image.
 **Notes**
 This repository focuses on spectral reconstruction from RGB images. The reconstructed hyperspectral data may subsequently be integrated with machine learning models for allergen source detection and food safety applications.
